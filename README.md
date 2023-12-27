@@ -10,4 +10,5 @@ Select a convenient date and time for the montly event, ensuring it doesn't conf
 Provide clear guidelines, documentation, and resources on how to contribute and review PRs effectively. Share best practices and expectations. Before the event, encourage contributors to prepare their PRs, ensuring they meet project standard and
 guidelines.
 4 Host the PR Palooza event :
-Allocate a specific time frame during the event day dedicated solely to reviewing and merging PRs. 
+Allocate a specific time frame during the event day dedicated solely to reviewing and merging PRs. Use communication tools (stack, discord, etc) or github collaboration features to encourage discussions, answer questions, and facilitate collaboration
+among contributors and reviewers.
